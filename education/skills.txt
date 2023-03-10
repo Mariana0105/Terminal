@@ -1,4 +1,4 @@
- Accomplis Testing of different types:
+ Accomplish Testing of different types:
  - Smoke Testing;
  - Functional Testing;
  - Regression Testing;
