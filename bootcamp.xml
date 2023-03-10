@@ -1,0 +1,12 @@
+<Bootcamp>
+     <Manual_testing>
+          <test_design>Test Cases</test_design>
+          <bug_tracking>Bug Reports</bug_tracking>
+          <main_functionality>Smoke Testing</main_functionality>
+     </Manual_testing> 
+     <Automated_testing>
+          <SQL>Queries Running</SQL>
+          <API>Postman Tool</API>
+	  <Selenium_IDE>Front-end testing</Selenium_IDE>
+     </Automated_testing>
+</Bootcamp>
