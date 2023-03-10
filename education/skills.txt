@@ -1,0 +1,12 @@
+ Accomplis Testing of different types:
+ - Smoke Testing;
+ - Functional Testing;
+ - Regression Testing;
+ - Performance Testing;
+ - Black-box Testing
+ - API testing
+
+  Able to:
+ - run SQL queries;
+ - write & run tests in Postman;
+ - write test scripts in Selenium IDE

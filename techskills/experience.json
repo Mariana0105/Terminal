@@ -1,0 +1,13 @@
+{
+  "Bootcamp": {
+    "Cloud_Academy": "Az_900_exam",
+    "project": "Warner_Bros",
+    "test_case": 10,
+    "bug_report": 2
+  },
+  "Project_Lab": {
+    "application": "mobile",
+    "device": "AndroidOS",
+    "bug_tracking": "GitHub"
+  }
+}
