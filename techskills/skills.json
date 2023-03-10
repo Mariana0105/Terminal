@@ -1,13 +1,13 @@
 {
   "skills": {
-    "Postman": "apiTesting",
-    "MySQL": "SQL_queries",
-    "Selenium": "test_scripts",
-    "HTML_CSS": "webpage"
+         "Postman": "apiTesting",
+         "MySQL": "SQL_queries",
+         "Selenium": "test_scripts",
+         "HTML_CSS": "webpage"
   },
   "testTypes": {
-    "Functional": "Smoke",
-    "Non-Functional": "Performance",
-    "Mobile": "Interruptions"
+         "Functional": "Smoke",
+         "Non-Functional": "Performance",
+         "Mobile": "Interruptions"
   }
 }
